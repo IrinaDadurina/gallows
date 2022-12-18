@@ -10,7 +10,7 @@ def display_hangman(tries):
                 |     |
                 |    / |
                 |
-                |  ПИЗДЕЦ!
+                |  Конец!
                 
                 ''',
                 '''
